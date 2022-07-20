@@ -1,9 +1,20 @@
-<!doctype>
+<!doctype html>
 <html>
 <body>
-<h1>hello how areyou</h1>
+<h1>hello how are you</h1>
 <br>
 <h2>Sth doesn't interesting</h2>
 <p>Hôm nay chúng mình sẽ thử tự làm những viên sủi tắm bồn y như những cục bath bomb mà mình rất mê ở Lush thử xem kết quả sẽ thế nào nhé!</p>
+<div>
+<img src="https://raw.githubusercontent.com/xuanthulabnet/learn-php/master/imgs/php-004.png">
+</div>
+<div>
+<ol>
+<li>Boil water</li>
+<li>Put eberytjing in it</li>
+<li>Wait for 5min</li>
+<li>pour to the bowl</li>
+<li>eat</li>
+</ol>
 </body>
 </html>
